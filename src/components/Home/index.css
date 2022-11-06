@@ -1,0 +1,213 @@
+.thanking-customers-section-modal-title {
+  color: #d0b200;
+  font-weight: 800;
+}
+
+.food-munch-logo {
+  width: 80px;
+  height: 70px;
+}
+
+#navItem1 {
+  color: #323f4b;
+  font-family: 'Roboto';
+}
+
+#navItem2 {
+  color: #323f4b;
+  font-family: 'Roboto';
+}
+
+#navItem3 {
+  color: #323f4b;
+  font-family: 'Roboto';
+}
+
+#navItem4 {
+  color: #323f4b;
+  font-family: 'Roboto';
+}
+
+.nav-link {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500px;
+}
+
+.columnContainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+@media (min-width: 600px) {
+  .columncontainer {
+    width: 50%;
+  }
+}
+
+.imageContainer1 {
+  flex-basis: 33.33%;
+  text-align: center;
+  background: url('https://a0.muscache.com/im/pictures/e35bb307-05f4-48a4-bdc5-3b2198bb9451.jpg?im_w=720');
+
+  background-size: cover;
+
+  padding: 10px;
+  height: 50vh;
+  width: 100vw;
+  margin: 10px;
+  background-size: cover;
+
+  border-radius: 20px;
+}
+
+.imageContainer2 {
+  flex-basis: 33.33%;
+  text-align: center;
+  background: url('https://a0.muscache.com/im/pictures/58819d01-2a71-441d-b3bc-baae0cd64da1.jpg?im_w=720');
+  padding: 10px;
+  height: 50vh;
+  width: 100vw;
+  margin: 10px;
+  background-size: cover;
+
+  border-radius: 20px;
+}
+
+.imageContainer3 {
+  flex-basis: 33.33%;
+  text-align: center;
+  background: url('https://a0.muscache.com/im/pictures/bcbd20bb-1654-4ea2-a86c-2cf25666f3b6.jpg?im_w=720');
+  padding: 10px;
+  height: 50vh;
+  width: 100vw;
+  margin: 10px;
+
+  background-size: cover;
+
+  border-radius: 20px;
+}
+
+.heading {
+  display: flex;
+  align-items: flex-start;
+  text-align: center;
+  color: white;
+  font-family: 'Roboto';
+  font-size: 20px;
+  padding: 10px;
+}
+
+.main-heading {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  color: white;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 300;
+  padding: 5px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+.button {
+  color: black;
+  background-color: white;
+  width: 90px;
+  height: 35px;
+  font-weight: 500px;
+  border-width: 0px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+@media (min-width: 600px) {
+  .button {
+    width: 50%;
+  }
+}
+
+.btn1 {
+  color: black;
+  background-color: #edebeb;
+  width: 130px;
+  height: 50px;
+  font-weight: 500px;
+  border-width: 0.5px;
+  border-color: black;
+  border-radius: 18px;
+  margin: 10px;
+  border-style: solid;
+}
+
+.btn {
+  color: black;
+  background-color: #edebeb;
+  width: 130px;
+  height: 50px;
+  font-weight: 500px;
+  border-width: 0px;
+
+  border-radius: 20px;
+  margin: 10px;
+}
+
+.airbnb-logo {
+  width: 80px;
+  height: 80px;
+}
+
+.globe-logo {
+  width: 40px;
+  height: 40px;
+}
+
+.person-logo {
+  width: 40px;
+  height: 40px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+
+  overflow-x: scroll;
+}
+
+.column {
+  flex: 7%;
+
+  padding: 5px;
+}
+
+.image {
+  height: 30vh;
+  width: 18vw;
+  background-size: cover;
+  margin-left: 5px;
+  padding-left: 5px;
+}
+
+.img-heading {
+  color: black;
+  font-size: 12px;
+  padding: 5px;
+
+  margin-left: 10px;
+}
+
+.section-heading {
+  color: black;
+  font-family: 'Roboto';
+  font-weight: 500px;
+  font-size: 25px;
+  padding: 5px;
+}
